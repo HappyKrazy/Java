@@ -1,2 +1,2 @@
 # Java
-Algunos ejercicios y cosas relacionadas a java.
+Some exercises and things related to java.
