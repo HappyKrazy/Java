@@ -20,5 +20,6 @@ public class Main {
         System.out.println("El perimetro del cuadrilatero es: " +op.calcularPerimetro());
         System.out.println("El area del cuadrilatero es: " +op.calcularArea());
 
+        //Por algun extraño motivo el codigo no se ejecuta correctamente aunque este bien
     }
 }
