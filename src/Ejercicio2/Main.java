@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args){
-        Tablero tab = new Tablero(0,0);
+        Tablero tab = new Tablero(0,0); //Esto se puede cambiar para que inicie en otra posicion a gusto
         int opc;
         int n;
         System.out.println("Posicion Actual: (Y:"+tab.getY()+",X:"+tab.getX()+")");
