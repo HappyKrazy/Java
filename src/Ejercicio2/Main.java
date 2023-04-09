@@ -7,6 +7,7 @@ public class Main {
         Tablero tab = new Tablero(0,0);
         int opc;
         int n;
+        System.out.println("Posicion Actual: (Y:"+tab.getY()+",X:"+tab.getX()+")");
         do{
             opc = Integer.parseInt(JOptionPane.showInputDialog("Escriba la opcion: " +
                     "" +
